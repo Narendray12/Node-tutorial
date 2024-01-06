@@ -25,4 +25,9 @@ NPM = {
         3. npm init -y (creates package.json file with everything default).
 }
 
+nodemon = {
+    to run any js file using "npm start" command in terminal, copy paste the code from the main file to app.js
+    ex. - copy fs-async-module.js code to app.js to run it using npm start
+}
+
 
